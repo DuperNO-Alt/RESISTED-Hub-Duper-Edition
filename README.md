@@ -1,2 +1,2 @@
-# RESISTED-Hub-Duper-Edition
- HUB
+# RESISTED Hub Duper Edition
+loadstring(game:HttpGet(""))
